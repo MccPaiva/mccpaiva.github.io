@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bca4db2b.css",
+    "main.js": "/static/js/main.5848bdb3.js",
+    "static/media/pokedex.png": "/static/media/pokedex.5d978dc573f79d22d991.png",
+    "static/media/loading.gif": "/static/media/loading.eedbf25d080eda4668ab.gif",
+    "static/media/Oxanium-VariableFont_wght.ttf": "/static/media/Oxanium-VariableFont_wght.d26645d688bccd49b28b.ttf",
+    "static/media/search.png": "/static/media/search.493eaf37d6b6c570b527.png",
+    "index.html": "/index.html",
+    "main.bca4db2b.css.map": "/static/css/main.bca4db2b.css.map",
+    "main.5848bdb3.js.map": "/static/js/main.5848bdb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bca4db2b.css",
+    "static/js/main.5848bdb3.js"
+  ]
+}
